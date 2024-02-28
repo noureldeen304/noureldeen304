@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nour Eldeen </h1>
+<h1 align="center">Hi 👋, I'm Nour Eldeen</h1>
 <h3 align="center">Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noureldeen304&label=Profile%20views&color=0e75b6&style=flat" alt="noureldeen304" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noureldeen304" alt="noureldeen304" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
