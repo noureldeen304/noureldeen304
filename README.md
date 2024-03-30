@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nour Eldeen</h1>
-<h3 align="center"> Software Engineer | Java Backend Developer</h3>
+<h3 align="center">Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noureldeen304&label=Profile%20views&color=0e75b6&style=flat" alt="noureldeen304" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nour-eldeen-6a874b225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nour-eldeen-6a874b225/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100010197552424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100010197552424" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/nour_eldin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/nour_eldin/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,3 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noureldeen304&show_icons=true&locale=en" alt="noureldeen304" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noureldeen304&" alt="noureldeen304" /></p>
